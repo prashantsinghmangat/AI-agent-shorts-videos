@@ -2,6 +2,10 @@
 
 This project automatically generates short, motivational videos (like YouTube Shorts or Instagram Reels) by combining a random quote with a random background video clip and background music.
 
+<p align="center">
+  <img src="./output/motivational_short_2025-07-30.gif" alt="Demo" />
+</p>
+
 ## How it Works
 
 The script, `daily_creator.py`, performs the following steps:
